@@ -1,0 +1,32 @@
+{
+  "name": "zxcc",
+  "version": "0.0.1",
+  "description": "zxcc",
+  "engines": {
+    "node": "5.1.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "json-over-tcp": "^0.3.2",
+    "json-socket": "^0.2.1",
+    "querystring": "^0.2.0",
+    "ws": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ert55/zxcc"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
